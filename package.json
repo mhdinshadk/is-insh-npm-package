@@ -1,0 +1,23 @@
+{
+  "name": "is-insh",
+  "version": "1.0.0",
+  "description": "is the string insh?",
+  "keywords": [
+    "INSH"
+  ],
+  "homepage": "https://github.com/mhdinshadk/NPM-Package#readme",
+  "bugs": {
+    "url": "https://github.com/mhdinshadk/NPM-Package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdinshadk/NPM-Package.git"
+  },
+  "license": "ISC",
+  "author": "Inshad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
